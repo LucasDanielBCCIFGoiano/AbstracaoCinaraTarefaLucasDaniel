@@ -49,4 +49,13 @@ namespace AbstracaoCinaraTarefaLucasDaniel
         }
 
     }
+    
+    public class Tablet : USB
+    {
+        public override void Plugar()
+        {
+            Console.WriteLine("Tablet plugado...");
+        }
+
+    }
 }
