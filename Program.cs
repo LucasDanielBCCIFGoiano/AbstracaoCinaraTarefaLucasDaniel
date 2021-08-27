@@ -7,9 +7,9 @@ namespace AbstracaoCinaraTarefaLucasDaniel
         static void Main(string[] args)
         {
             Notebook sony = new Notebook("Sony Vaio");
-            sony.Porta1 = new Iphone();
-            var iphone = new Iphone();
-            iphone.Plugar();
+            sony.Porta1 = new Tablet();
+            var tablet = new Tablet();
+            tablet.Plugar();
             sony.Porta2 = new Mouse();
             var mouse = new Mouse();
             mouse.Plugar();
