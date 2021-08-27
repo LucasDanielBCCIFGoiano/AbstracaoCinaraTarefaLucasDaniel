@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\bin\Debug\AbstracaoCinaraTarefaLucasDaniel.exe.config
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\bin\Debug\AbstracaoCinaraTarefaLucasDaniel.exe
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\bin\Debug\AbstracaoCinaraTarefaLucasDaniel.pdb
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\obj\Debug\AbstracaoCinaraTarefaLucasDaniel.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\obj\Debug\AbstracaoCinaraTarefaLucasDaniel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\obj\Debug\AbstracaoCinaraTarefaLucasDaniel.exe
+C:\Users\lucas\source\repos\AbstracaoCinaraTarefaLucasDaniel\obj\Debug\AbstracaoCinaraTarefaLucasDaniel.pdb
